@@ -75,7 +75,7 @@ const result = await crovly.verify({
   success: boolean  // true if verification passed
   score: number     // 0.0 (bot) to 1.0 (human)
   ip: string        // IP that solved the challenge
-  solvedAt: string  // ISO 8601 timestamp
+  solvedAt: number  // Unix timestamp in milliseconds
 }
 ```
 

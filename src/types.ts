@@ -23,8 +23,8 @@ export interface VerifyResponse {
   score: number
   /** IP address that solved the challenge */
   ip: string
-  /** ISO 8601 timestamp when the challenge was solved */
-  solvedAt: string
+  /** Unix timestamp in milliseconds when the challenge was solved */
+  solvedAt: number
 }
 
 // ── API Error Shape ──
