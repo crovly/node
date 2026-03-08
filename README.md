@@ -205,7 +205,7 @@ The default threshold is 0.5. You can adjust this per site in the Crovly dashboa
 
 - [Documentation](https://docs.crovly.com) -- Full guides and API reference
 - [Dashboard](https://app.crovly.com) -- Manage sites and view analytics
-- [Widget Integration](https://docs.crovly.com/widget) -- Client-side setup
+- [Widget Integration](https://docs.crovly.com/getting-started/integration) -- Client-side setup
 
 ## License
 
