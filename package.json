@@ -40,6 +40,9 @@
     "url": "https://github.com/crovly/node"
   },
   "homepage": "https://crovly.com",
+  "bugs": {
+    "url": "https://github.com/crovly/node/issues"
+  },
   "devDependencies": {
     "tsup": "^8.0.0",
     "typescript": "^5.5.0"
