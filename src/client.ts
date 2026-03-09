@@ -10,7 +10,7 @@ import {
 
 const DEFAULT_API_URL = 'https://api.crovly.com'
 const DEFAULT_TIMEOUT = 10_000
-const SDK_VERSION = '1.0.1'
+const SDK_VERSION = '1.0.2'
 
 export class Crovly {
   private readonly secretKey: string

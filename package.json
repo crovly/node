@@ -1,6 +1,6 @@
 {
   "name": "@crovly/node",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Official Crovly server-side SDK for Node.js — verify captcha tokens",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
